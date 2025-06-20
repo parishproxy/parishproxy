@@ -12,14 +12,14 @@ This repository powers our public landing page:
 - Web presence for advocacy and community initiatives
 - Operational security for mission-aligned groups
 
-### 🧩 Technologies Used
+### 🧹 Technologies Used
 - HTML5 + CSS3
 - GitHub Pages
 - Static site deployment (no database, no trackers)
 
-### 📫 Contact
+### 📩 Contact
 For general inquiries or secure consulting collaboration:  
-📧 `mugshotloading@proton.me`
+📧 `parishproxy@proton.me`
 
 ---
 
